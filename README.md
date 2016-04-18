@@ -4,3 +4,5 @@ csgost (short for Counter-Strike: Global Offensive StatTracker and prounced "cs 
 POST requests sent to /api/matches with maps/teams_or/teams_and/days will have a JSON response returned. If you have any questions about this project, please feel free to email me at ryan.fox@oit.edu.
 
 In addition, if you would like to use this API, you are absolutely welcome to! Please let me know, though, as I'd love to see what it gets used for. :) 
+
+Stu was here.
