@@ -30,6 +30,8 @@ var updateMatch = function(match, callback) {
 	console.log('updating match from ' + match.date + ' (' + match.id + ')');
 	var team1 = match.team1;
 	var team2 = match.team2;
+        
+        team2.ryansteam = 13;
 
 	var team1players = team1[0].players;
 	var team2players = team2[0].players;
